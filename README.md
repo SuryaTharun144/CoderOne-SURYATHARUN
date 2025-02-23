@@ -1,2 +1,2 @@
 # CoderOne-SURYATHARUN
-CoderOne projects on Text Summarizer and Text Analysis
+CoderOne projects on Text Summarizer
